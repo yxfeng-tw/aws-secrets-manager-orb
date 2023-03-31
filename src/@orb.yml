@@ -4,9 +4,9 @@ description: >
   Use this orb to get secrets from AWS secrets manager more efficiently
 
 # This information will be displayed in the orb registry and is not mandatory.
-#display:
-#  home_url: "https://github.com/techops-e2ecs/aws-secrets-manager"
-#  source_url: "https://github.com/techops-e2ecs/aws-secrets-manager.git"
+display:
+  home_url: "https://github.com/techops-e2ecs/aws-secrets-manager"
+  source_url: "https://github.com/techops-e2ecs/aws-secrets-manager.git"
 
 # If your orb requires other orbs, you can import them like this. Otherwise remove the "orbs" stanza.
 # orbs:
