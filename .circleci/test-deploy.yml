@@ -5,7 +5,7 @@ orbs:
 
 filters: &filters
   tags:
-    only: /^v[0-9]+\.[0-9]+\.[0-9]+$/
+    only: /.*/
 
 jobs:
   # Create a job to test the commands of your orbs.
