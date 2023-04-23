@@ -32,7 +32,7 @@ workflows:
           requires:
             - orb-tools/pack
             - command-tests
-          context: <publishing-context>
+          context: circleci-customized-orb
           filters:
             branches:
               ignore: /.*/
