@@ -6,7 +6,7 @@ description: >
 usage:
   version: 2.1
   orbs:
-    <orb-name>: <namespace>/<orb-name>@1.2.3
+    aws-secrets-manager: techops-e2ecs/aws-secrets-manager-orb@0.0.5
   workflows:
     use-my-orb:
       jobs:
