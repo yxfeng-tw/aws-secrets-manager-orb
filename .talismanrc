@@ -6,5 +6,5 @@ fileignoreconfig:
 - filename: src/commands/get-and-export-secret.yml
   checksum: 87cc78381d5f2d4d46593ecd16a39b04814078ec7cf26f838d25a43ecfe934d5
 - filename: src/scripts/get-and-export-secret.sh
-  checksum: 0d0a1a3ee36c045ff723926b1f948ee55fc1b497dfbe6fa10c05ca0c6b2a29f5
+  checksum: 33220d41b71927ca02cbc13e3243d55b371d06e9a6a0d1936ed7c49f64be590e
 version: ""
