@@ -4,7 +4,7 @@ fileignoreconfig:
 - filename: src/examples/example.yml
   checksum: e74787163fafa397068281e6718a900bfb0306bc65d6a3d841a2bc73fc60081f
 - filename: src/commands/get-and-export-secret.yml
-  checksum: 87cc78381d5f2d4d46593ecd16a39b04814078ec7cf26f838d25a43ecfe934d5
+  checksum: 17914fa4cc71223fca6e1755f1ff0641be87691ca016770ef31ae83e3e612e83
 - filename: src/scripts/get-and-export-secret.sh
   checksum: 33220d41b71927ca02cbc13e3243d55b371d06e9a6a0d1936ed7c49f64be590e
 version: ""
