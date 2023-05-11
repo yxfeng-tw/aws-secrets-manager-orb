@@ -1,6 +1,6 @@
 fileignoreconfig:
 - filename: .circleci/test-deploy.yml
-  checksum: f93a8bcf24385a3b73f6ddb1ac75b78d0d72eb7bfa65c6b682b9f7e8922aa196
+  checksum: 4e1bf4dc8cb3616f9aa9b3a6d61a7755dabfa7b24c0e1ad5ccc288802e0cfddc
 - filename: src/examples/example.yml
   checksum: e74787163fafa397068281e6718a900bfb0306bc65d6a3d841a2bc73fc60081f
 - filename: src/commands/get-and-export-secret.yml

@@ -16,7 +16,10 @@ jobs:
     steps:
       - checkout
       # Run your orb's commands to validate them.
-      - aws-secrets-manager/get-and-export-secret
+      - aws-secrets-manager/get-and-export-secret:
+          secret: uat/testing
+          key: test
+          variable: TEST
 workflows:
   test-deploy:
     jobs:
